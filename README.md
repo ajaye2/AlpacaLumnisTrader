@@ -4,7 +4,9 @@
 ## API Usage 
 
 ### Install the package 
+```
 pip3 install alpaca-lumnis-trader --upgrade
+```
 
 ### Overriding the run function
 
